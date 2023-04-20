@@ -1,0 +1,37 @@
+[
+    {
+      "id": 34123413,
+      "name": "Zak Ruvalcaba",
+      "number": 3424,
+      "email": "zak@vectacorp.com",
+      "position": "Executive"
+    },
+    {
+      "id": 123424665,
+      "name": "Sally Smith",
+      "number": 2344,
+      "email": "sally@vectacorp.com",
+      "position": "Administrative"
+    },
+    {
+      "id": 12341244,
+      "name": "Mark Martin",
+      "number": 5352,
+      "email": "mark@vectacorp.com",
+      "position": "Sales"
+    },
+    {
+      "id": 13413453,
+      "name": "Robin Banks",
+      "number": 7867,
+      "email": "robin@vectacorp.com",
+      "position": "Marketing"
+    },
+    {
+      "id": 114545423,
+      "name": "Sue Wedge",
+      "number": 1235,
+      "email": "sue@vectacorp.com",
+      "position": "OA"
+    }
+  ]
